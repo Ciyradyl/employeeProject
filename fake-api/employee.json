@@ -1,0 +1,22 @@
+{
+  "employees": [
+    {
+      "name": "Nermin Genç",
+      "department": "Muhasebe",
+      "salary": 4000,
+      "id": 2
+    },
+    {
+      "name": "Hilmi Kaan Genç",
+      "department": "Yazılım",
+      "salary": 3000,
+      "id": 3
+    },
+    {
+      "name": "Hilmi Kaan Genç",
+      "department": "Bilişim",
+      "salary": 5000,
+      "id": 4
+    }
+  ]
+}
